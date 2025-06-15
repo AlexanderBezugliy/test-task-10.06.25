@@ -1,7 +1,6 @@
 import quotes from "../assets/quotes.png";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import Navigation from "./Navigation";
 import Pagination from "./Pagination";
 import { data } from "../data/data";
 import arrowLeft from "../assets/arrow-left.png";
